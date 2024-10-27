@@ -1,8 +1,8 @@
-# Project Name
+# AIDIT
 
 ## Overview
 
-Briefly describe what your project does.
+This is a AI based content creation tool that does the manual time consuming task like editing keyword research content scripting etc.. and allow creators to be creative.
 
 ## Setup Instructions
 
